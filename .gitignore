@@ -1,0 +1,12 @@
+# never: the build tree, images, bundles, keys or a kitchen.conf
+*.img
+*.img.xz
+*.tar
+*.tar.sig
+*.part*
+*.tgz
+*.key
+*.pem
+kitchen.conf*
+bundles/
+v[0-9]*/
