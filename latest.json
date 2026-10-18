@@ -1,7 +1,7 @@
 {
- "version": "20261018.2154-da0da8c",
- "url": "https://github.com/cobyspeters/KitchenOS/releases/download/kitchen-os-20261018.2154-da0da8c/kitchen-os-20261018.2154-da0da8c.tar",
- "sha256": "1b3776f821721730d89bf2dce5cc0754230cc69013eff12919af82ba539b9d8c",
- "sig": "iB5OBkut2BV2/qqvQo/CLb6hRvgDfYCuCBQaQdm4ou6TM7AMb8whxpiyseutcU14KmYMf5N627GTJr/c4PxjDA==",
- "notes": "Kitchen OS 20261018.2154-da0da8c"
+ "version": "20261018.2229-dd00193",
+ "url": "https://github.com/cobyspeters/KitchenOS/releases/download/kitchen-os-20261018.2229-dd00193/kitchen-os-20261018.2229-dd00193.tar",
+ "sha256": "c223789e8892ba260cb5b39ea04a0080347fad35ccb9f1bc6be7433e05dbfe92",
+ "sig": "RE49ef7eEclbLRG/vfy+3kesb1fmotLGjRJps9gDSlnMZ/Mhn6hmTV16wVtu6u3VBQM6rPyTGLLpi34CakbxCQ==",
+ "notes": "Kitchen OS 20261018.2229-dd00193"
 }
